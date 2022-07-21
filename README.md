@@ -1,5 +1,5 @@
 <h1 align="center">hi there👋, i'm musa</h1>
-<h3 align="center">👨‍💻 a passionate software engineer and js enthusiast</h3>
+<h3 align="center">👨‍💻 a passionate software engineer</h3>
 
 - 💬 ask me about **web development, microservices, javascript, typescript, node.js, react and mongodb**
 
