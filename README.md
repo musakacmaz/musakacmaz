@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="header-light.svg">
-  <img alt="Musa Kacmaz — Senior Software Engineer. TypeScript, Node.js, and AWS." src="header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="header-light.svg?v=2">
+  <img alt="Musa Kacmaz — Senior Software Engineer. TypeScript, Node.js, and AWS." src="header-light.svg?v=2" width="100%">
 </picture>
 
 <p align="center">
