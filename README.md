@@ -17,24 +17,20 @@ I'm a **Senior Software Engineer** based in **Berlin**, with a **computer engine
 
 I've built **robust, highly available systems serving millions of customers**. My core stack is **TypeScript, Node.js, and AWS**, with experience across backend services and web applications.
 
-My growing focus is **applied AI and observability**: making complex software systems easier to understand, operate, and improve.
+My growing focus is **applied AI and observability**: making complex software systems easier to understand, operate, and improve. I'm currently gaining hands-on experience with **OpenTelemetry** through a side project and master's thesis.
 
 ## Engineering toolkit
 
 | Area | Technologies & focus |
 | :--- | :--- |
-| **Backend & systems** | TypeScript · JavaScript · Node.js · Fastify · microservices · API design |
+| **Backend & systems** | TypeScript · JavaScript · Node.js · Fastify · microservices · API design · OpenAPI / Swagger |
 | **Web & mobile** | React · Next.js · Angular · Ionic |
-| **Data & messaging** | PostgreSQL · MongoDB · Redis · RabbitMQ |
-| **Cloud & quality** | AWS · Docker · Linux · Git · Jest |
+| **Cloud & delivery** | AWS · AWS CDK · GitHub Actions · Docker · Linux · CloudWatch |
+| **Messaging & observability** | Amazon SQS/SNS · Datadog · OpenTelemetry · PostgreSQL · MongoDB · Redis · RabbitMQ |
+| **Code quality** | ESLint · Prettier · Git · Jest |
 | **Exploration** | Go · deep learning · TensorFlow · AI for software engineering |
 
 ## Selected work
-
-### [Vehicle Clustering API](https://github.com/musakacmaz/vehicle-clustering-api)
-An API for fetching, dynamically clustering, and filtering vehicle data by location, availability, and other attributes.
-
-<sub>TypeScript · Node.js · Fastify · MongoDB · Redis · Docker · Jest</sub>
 
 ### [Deep Learning for Software Engineering](https://github.com/musakacmaz/deep-learning-for-se)
 Experiments with deep learning on software engineering data, including defect prediction, effort estimation, and issue lifetime.
