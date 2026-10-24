@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Musa Kacmaz — Software Engineer</title>
+  <desc id="desc">Web, systems, and applied AI. A minimal geometric network illustration.</desc>
+  <rect x="1" y="1" width="1198" height="298" rx="20" fill="#f5f8f7" stroke="#d4e2dd"/>
+  <path d="M56 58h36" stroke="#167d6c" stroke-width="4"/>
+  <text x="108" y="64" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="3" fill="#536b69">SOFTWARE ENGINEER</text>
+  <text x="56" y="153" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-2" fill="#172c2b">Musa Kacmaz</text>
+  <text x="59" y="200" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#536b69">Web, systems, and applied AI.</text>
+  <path d="M59 244h604" stroke="#d4e2dd"/>
+  <g stroke="#d4e2dd" stroke-width="1.5">
+    <path d="M830 74h150l90 76-90 76H830l-60-76Z"/>
+    <path d="M830 74l75 76-75 76m150-152-75 76 75 76m-210-76h300"/>
+    <circle cx="905" cy="150" r="106"/>
+    <circle cx="905" cy="150" r="72"/>
+  </g>
+  <path d="m830 74 75 76 75-76m-75 76 75 76" stroke="#167d6c" stroke-width="2"/>
+  <g fill="#f5f8f7" stroke="#167d6c" stroke-width="2"><circle cx="830" cy="74" r="7"/><circle cx="980" cy="74" r="7"/><circle cx="980" cy="226" r="7"/></g>
+  <circle cx="905" cy="150" r="23" fill="#e2efea" stroke="#167d6c" stroke-width="2"/>
+  <circle cx="905" cy="150" r="6" fill="#167d6c"/>
+  <g fill="#536b69"><circle cx="770" cy="150" r="4"/><circle cx="1070" cy="150" r="4"/><circle cx="830" cy="226" r="4"/></g>
+</svg>
