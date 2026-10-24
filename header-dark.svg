@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Musa Kacmaz — Software Engineer</title>
-  <desc id="desc">Web, systems, and applied AI. A minimal geometric network illustration.</desc>
+  <title id="title">Musa Kacmaz — Senior Software Engineer</title>
+  <desc id="desc">TypeScript, Node.js, and AWS. A minimal geometric network illustration.</desc>
   <rect x="1" y="1" width="1198" height="298" rx="20" fill="#0d1117" stroke="#243740"/>
   <path d="M56 58h36" stroke="#66dfc4" stroke-width="4"/>
-  <text x="108" y="64" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="3" fill="#9daebb">SOFTWARE ENGINEER</text>
+  <text x="108" y="64" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="600" letter-spacing="3" fill="#9daebb">SENIOR SOFTWARE ENGINEER</text>
   <text x="56" y="153" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-2" fill="#f0f6fc">Musa Kacmaz</text>
-  <text x="59" y="200" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#9daebb">Web, systems, and applied AI.</text>
+  <text x="59" y="200" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#9daebb">TypeScript, Node.js, and AWS.</text>
   <path d="M59 244h604" stroke="#243740"/>
   <g stroke="#243740" stroke-width="1.5">
     <path d="M830 74h150l90 76-90 76H830l-60-76Z"/>

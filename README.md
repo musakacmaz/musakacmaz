@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="header-light.svg">
-  <img alt="Musa Kacmaz — Software Engineer. Web, systems, and applied AI." src="header-light.svg" width="100%">
+  <img alt="Musa Kacmaz — Senior Software Engineer. TypeScript, Node.js, and AWS." src="header-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 ## A little about me
 
-I'm a software engineer based in **Berlin**, working at **Volkswagen Financial Services**. My background spans web and mobile applications, backend services, and mobility products.
+I'm a **Senior Software Engineer** based in **Berlin**, with a **computer engineering background** and professional experience since **2017**.
 
-My [professional experience](https://www.linkedin.com/in/musakacmaz/) includes work on **Europcar and Porsche mobility apps**, **GetirFood**, and **public transit monitoring**.
+I've built **robust, highly available systems serving millions of customers**. My core stack is **TypeScript, Node.js, and AWS**, with experience across backend services and web applications.
 
-I work primarily with **TypeScript, Node.js, and React**, with an interest in how applied AI can help us understand and improve software systems.
+My growing focus is **applied AI and observability**: making complex software systems easier to understand, operate, and improve.
 
 ## Engineering toolkit
 
@@ -48,4 +48,4 @@ A small browser game: read a quote from *The Office* and guess the character. A 
 
 ---
 
-Interested in software engineering, mobility, or applied AI? [Let's connect.](https://www.linkedin.com/in/musakacmaz/)
+Interested in reliable systems, observability, or applied AI? [Let's connect.](https://www.linkedin.com/in/musakacmaz/)
