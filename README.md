@@ -5,7 +5,7 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/musakacmaz/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/musakacmaz">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://bsky.app/profile/musakacmaz.com">Bluesky</a> &nbsp;·&nbsp;
   <a href="https://substack.com/@musakacmaz">Substack</a> &nbsp;·&nbsp;
   <a href="https://huggingface.co/musa">Hugging Face</a> &nbsp;·&nbsp;
